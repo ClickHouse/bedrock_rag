@@ -1,0 +1,17 @@
+<functions>
+   <function>
+       <name>embed</name>
+        <type>executable_pool</type>
+        <pool_size>3</pool_size>
+        <send_chunk_header>true</send_chunk_header>
+        <format>TabSeparated</format>
+        <return_type>Array(Float32)</return_type>
+        <argument>
+          <type>String</type>
+        </argument>
+        <command>embed.py</command>
+        <command_read_timeout>10000000</command_read_timeout>
+        <command_write_timeout>10000000</command_write_timeout>
+        <max_command_execution_time>1000000</max_command_execution_time>
+   </function>
+</functions>

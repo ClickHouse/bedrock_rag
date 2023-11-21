@@ -1,0 +1,16 @@
+beautifulsoup4==4.12.2
+boto3==1.29.4
+botocore==1.32.4
+bs4==0.0.1
+certifi==2023.11.17
+clickhouse-connect==0.6.20
+jmespath==1.0.1
+lz4==4.3.2
+python-dateutil==2.8.2
+pytz==2023.3.post1
+s3transfer==0.7.0
+six==1.16.0
+soupsieve==2.5
+tenacity==8.2.3
+urllib3==2.0.7
+zstandard==0.22.0
