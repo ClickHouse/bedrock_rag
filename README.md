@@ -1,7 +1,7 @@
 
 # ClickHouse and AWS Bedrock - A simple RAG pipeline
 
-Files supporting blog post [Building a RAG pipeline for enhanced Google Analytics with ClickHouse and Amazon Bedrock]().
+Files supporting blog post [Building a RAG pipeline for enhanced Google Analytics with ClickHouse and Amazon Bedrock](https://clickhouse.com/blog/retrieval-augmented-generation-rag-with-clickhouse-bedrock).
 
 This simple RAG flow uses ClickHouse and Bedrock APIs to convert Google Analytics questions into a SQL responses.
 
@@ -57,7 +57,7 @@ ORDER BY event_date
 
 ## Example Questions
 
-Example questions from [blog]().
+Example questions from [blog](https://clickhouse.com/blog/retrieval-augmented-generation-rag-with-clickhouse-bedrock).
 
 1. "What are the number of returning users per day for the month of October for doc pages?"
 1. "What are the number of new users for blogs about dictionaries over time?"
