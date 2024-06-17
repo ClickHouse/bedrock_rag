@@ -12,5 +12,5 @@ s3transfer==0.7.0
 six==1.16.0
 soupsieve==2.5
 tenacity==8.2.3
-urllib3==2.0.7
+urllib3==2.2.2
 zstandard==0.22.0
